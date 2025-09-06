@@ -15,7 +15,7 @@
 ---
 
 ## Meus projetos:
-- Página de apresentação pessoal (em breve estará aqui)
+- Página de apresentação pessoal (https://lucasbarbozaamoedo.github.io/Eu/)
 - Lista de tarefas ( Em breve )
 ---
 
